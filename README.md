@@ -24,16 +24,6 @@ This lab simulates a real-world IT Help Desk task — onboarding a new user into
 
 ## 🧪 Screenshots (Full Workflow)
 
-powershell-ad-onboarding-lab/
-├── onboarding-script.ps1
-├── README.md
-├── screenshots/
-│   ├── 01-promote-to-dc.png
-│   ├── 02-login-domain.png
-│   ├── 03-create-logs-folder.png
-│   ├── 04-run-onboarding-script.png
-│   ├── 05-user-created-in-ou.png
-│   └── ad_lab_showcase_combined.png
 
 
 ---
